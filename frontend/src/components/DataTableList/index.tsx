@@ -6,10 +6,10 @@ const DataTablePaciente = () => {
       <table className="table table-striped table-sm">
         <thead>
           <tr>
-            <th>Data Cadastro</th>
+            <th>Dt Cadast.</th>
             <th>Paciente</th>
             <th>Apelido</th>
-            <th>Data Nascto</th>
+            <th>Dt Nascto</th>
             <th>Sexo</th>
             <th>Diagonostico</th>
           </tr>
