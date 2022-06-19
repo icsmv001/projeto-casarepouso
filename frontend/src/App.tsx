@@ -1,7 +1,7 @@
 import Routes from "Rotas";
 
 function App() {
-  return <Routes />;
+  return <Routes bg-secundario  />;
 }
 
 export default App;

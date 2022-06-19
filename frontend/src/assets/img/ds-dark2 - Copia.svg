@@ -16,10 +16,10 @@
   <defs
      id="defs28">
     <linearGradient
-       id="linearGradient12677"
-       inkscape:swatch="gradient">
+       inkscape:collect="always"
+       id="linearGradient12677">
       <stop
-         style="stop-color:#00a632;stop-opacity:1;"
+         style="stop-color:#009300;stop-opacity:1;"
          offset="0"
          id="stop12673" />
       <stop
@@ -99,13 +99,13 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient12471"
-       id="linearGradient3978"
-       gradientUnits="userSpaceOnUse"
-       x1="860.12146"
-       y1="72.16259"
+       xlink:href="#linearGradient12677"
+       id="linearGradient12679"
+       x1="860.12149"
+       y1="72.162589"
        x2="1657.4329"
-       y2="72.16259" />
+       y2="72.162589"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="namedview26"
@@ -119,7 +119,7 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.83972603"
-     inkscape:cx="-33.344209"
+     inkscape:cx="1005.0897"
      inkscape:cy="176.24796"
      inkscape:window-width="1366"
      inkscape:window-height="705"
@@ -143,7 +143,7 @@
    id="tspan10242">CHACARA</tspan>- </tspan></text>
   <text
      xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:186.895px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';opacity:0.950166;fill:url(#linearGradient3978);fill-opacity:1.0;stroke:#347238;stroke-width:0.999997;stroke-opacity:1"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:186.895px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';opacity:0.950166;fill:url(#linearGradient12679);fill-opacity:1;stroke:#347238;stroke-width:0.999997;stroke-opacity:1"
      x="851.22198"
      y="140.10367"
      id="text7328"
@@ -152,5 +152,5 @@
        id="tspan7326"
        x="851.22198"
        y="140.10367"
-       style="stroke-width:0.999997;fill-opacity:1.0;fill:url(#linearGradient3978)">ODELIA</tspan></text>
+       style="stroke-width:0.999997;fill-opacity:1;fill:url(#linearGradient12679)">ODELIA</tspan></text>
 </svg>

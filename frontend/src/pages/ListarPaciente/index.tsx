@@ -6,7 +6,7 @@ const ListarPaciente = () => {
   return (
     <>
       <NavBar />
-      <div className="container">
+      <div className="container ">
         <h1 className="text-primary py-3">Lista De Pacientes</h1>
 
         <DataTablePaciente />

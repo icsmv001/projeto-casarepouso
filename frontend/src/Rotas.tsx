@@ -3,6 +3,7 @@ import { BrowserRouter } from "react-router-dom";
 
 import Home from "pages/Home";
 import ListarPaciente from "pages/ListarPaciente";
+import Localizacao from "pages/Localizacao";
 
 const Rotas = () => {
   return (
@@ -10,6 +11,7 @@ const Rotas = () => {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/listarPaciente" element={<ListarPaciente />} />
+        <Route path="/localizacao" element={<Localizacao />} />
       </Routes>
     </BrowserRouter>
   );

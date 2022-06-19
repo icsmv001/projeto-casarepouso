@@ -1,0 +1,9 @@
+header {
+  background-color: var(--verdeclaro);
+}
+
+
+Icone-NavBar {
+  display: flex;
+  background-color: var(--verdeclaro);
+}
