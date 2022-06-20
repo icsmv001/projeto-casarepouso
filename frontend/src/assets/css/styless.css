@@ -9,11 +9,10 @@
   --LightCyan: #e0ffff;
   --Snow1: #fffafa;
   --verdeclaro: #e9f9e5;
+  --color-branco: #ffffff;
 }
 
-html
-,
-
+html,
 body {
   height: 100%;
   font-family: "Ubuntu", sans-serif;
@@ -48,7 +47,19 @@ body {
   background-color: var(--verdeclaro);
 }
 
+.chegar {
+  color: var(--color-branco) !important;
+}
+
+.corAzul {
+  color: var(--color-blue) !important;
+}
+
 .erase-alert {
   margin: 0;
   top: 0;
+}
+
+.semsublinado{
+   text-decoration: none;
 }

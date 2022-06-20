@@ -5,26 +5,18 @@ const Footer = () => {
     <footer className="footer mt-auto py-3 bg-dark">
       <div className="container">
         <p className="text-light">
-          App desenvolvido por{" "}
-          <a
-            href="https://github.com/icsmv001"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Izael Coutinho da Silva
+          App desenvolvido por :
+          <a className="btn-chegar corAzul semsublinado">
+            Izael Coutinho Da Silva
           </a>
         </p>
-        <p className="text-light">
+        <p className="text-light ">
           <small>
             <strong>Projeto Gestao de Casa de Repouso</strong>
             <br />
-            Desenvolvimento e Estudo em React com BootStrap:{" "}
-            <a
-              href="https://github.com/icsmv001/projeto-casarepouso"
-              target="_blank"
-              rel="noreferrer"
-            >
-              @projeto-casarepouso
+            Desenvolvido em React com BootStrap:{" "}
+            <a className="btn-chegar corAzul semsublinado">
+              projeto-casarepouso
             </a>
           </small>
         </p>

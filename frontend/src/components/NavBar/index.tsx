@@ -14,7 +14,7 @@ const NavBar = () => {
             <div className="Icone-NavBar">
               <Link to="/">
                 <img src={ImgDsDark} alt="Casa Repouso" width="120" />
-                <span> Casa De Repouso Chácara Odélia1. </span>
+                <span> Casa De Repouso Chácara Odélia</span>
               </Link>
             </div>
           </nav>
